@@ -6,7 +6,7 @@ body {
     background: linear-gradient(to right, #16222a, #3a6073) ;
 }
 #heroImageContainer{
-    background-image: url('/pexels-pixabay-265667.jpg');
+    background-image: url("/images/pexels-pixabay-265667.jpg");
             background-size: cover;height: 400px;
             background-repeat: no-repeat;
 }
